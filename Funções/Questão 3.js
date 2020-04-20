@@ -14,4 +14,4 @@ bhaskara = (a,b,c) =>{
 }
 
 console.log(bhaskara(1,3,2))// exemplo
-// -> 
+// -> [ 1, 2 ]
