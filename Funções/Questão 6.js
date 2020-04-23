@@ -1,4 +1,4 @@
-/*10º) ​ Crie uma função que verifica se um número inteiro passado como parêmetro é divisível por 3 e retorne true ou false.*/
+/*6º) ​ Crie uma função que verifica se um número inteiro passado como parêmetro é divisível por 3 e retorne true ou false.*/
 divisivel = (n) => {
     console.log(n % 3 === 0)
 }
