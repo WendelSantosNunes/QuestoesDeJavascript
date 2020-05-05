@@ -17,5 +17,5 @@ function revenda (modelo){
     }
 }
 
-console.log(revenda('hatch'))
+console.log(revenda('hatch')) // Exemplo
 //-> Compra efetuada com sucesso
