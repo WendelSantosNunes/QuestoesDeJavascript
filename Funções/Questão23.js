@@ -14,4 +14,7 @@ function colegio (codigo,nota1,nota2,nota3){
     console.log(`Código do aluno: ${codigo}\nnotas: ${nota1}, ${nota2}, ${nota3} \n${media < 5 ? 'Reprovado.': 'Aprovado.'}`)
 }
 
-colegio(123,2.8,6,3.5)
+colegio(123,2.8,6,3.5)//Exemplo
+//-> Código do aluno: 123
+//-> notas: 2.8, 6, 3.5 
+//-> Reprovado.
